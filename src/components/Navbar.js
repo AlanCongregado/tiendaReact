@@ -18,7 +18,7 @@ const Navbar = () => {
               <a href="jsx-a11y/anchor-is-valid">Monitores</a>
             </li>
             <li>
-              <a href="jsx-a11y/anchor-is-valid">Auriculares</a>
+              <a href="jsx-a11y/anchor-is-valid">Parlantes</a>
             </li>
           </ul>
         </nav>
